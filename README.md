@@ -19,7 +19,7 @@ https://gist.github.com/mubix/fd0c89ec021f70023695
 https://github.com/zjorz/Public-AD-Scripts/blob/5666e5fcafd933c3288a47944cd6fb289dde54a1/Reset-KrbTgt-Password-For-RWDCs-And-RODCs.ps1
 
 
-
+You can also check the Forks of this repo to see other versions. 
 
 
 
